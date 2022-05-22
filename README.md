@@ -1,13 +1,11 @@
-# Actividad-E2
-Programa de la Actividad-E2
-Programa en c++ de Pervis Zurita
-==============================
+# Programa en c++ de Pervis Zurita
+
 Autor: Pervis Zurita Valencia
 Correo electronico de contacto: pervis.zurita.valencia@utelvt.edu.ec
 
 Video:
 
-//PROGRAMAS//
+##Programas
 
 Compara.cpp Suma.cpp CuentaMoneda.cpp Edad.cpp PuntoVenta.cpp
 
