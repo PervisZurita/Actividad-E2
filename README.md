@@ -14,9 +14,9 @@ edad
 CuentaMoneda 
 PuntoVenta
 
-##Descripcion de todos los programas //
+## Descripcion de todos los programas //
 
-###Compara: 
+### Compara: 
 Este es un programa realizado para comparar 2 numeros, para demostrar si un numero es mayor o igual al otro. Este programa funciona de la siguiente manera:
 Debe ingresar los dos numeros que se quiere comparar.
 El programa realizará una comparación de los numeros ingresados.
