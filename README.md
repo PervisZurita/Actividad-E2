@@ -1,6 +1,8 @@
 # Programa en c++ de Pervis Zurita
 
+#Informacion del autor
 Autor: Pervis Zurita Valencia
+
 Correo electronico de contacto: pervis.zurita.valencia@utelvt.edu.ec
 
 Video:
