@@ -1,13 +1,13 @@
 # Programa en c++ de Pervis Zurita
 
-#Informacion del autor
+## Informacion del autor
 Autor: Pervis Zurita Valencia
 
 Correo electronico de contacto: pervis.zurita.valencia@utelvt.edu.ec
 
 Video:
 
-##Programas
+## Programas
 
 Compara.cpp Suma.cpp CuentaMoneda.cpp Edad.cpp PuntoVenta.cpp
 
