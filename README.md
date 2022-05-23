@@ -93,7 +93,7 @@ git clone https://github.com/PervisZurita/Actividad-E2.git
 `
 ### Ingresar al repositorio
 `
-cd ACTIVIDAD-E2
+cd Actividad-E2
 `
 ### Para observar codigo del programa
 `
