@@ -1,6 +1,7 @@
 # Programa en c++ de Pervis Zurita 
 
 ## Informacion del autor
+
 Autor: Pervis Teodoro Zurita Valencia
 
 Correo electronico de contacto: pervis.zurita.valencia@utelvt.edu.ec
@@ -28,8 +29,8 @@ El programa designará cual es el mayor o si son iguales.
 Finalmente mostrará el resultado por pantalla si es mayor o igual.
 #### Salida:
 `
-"**aa** es mayor.";
-"**bb** es menor.";
+"**pv_a** es mayor.";
+"**pv_b** es menor.";
 `
 
 ### Suma: 
@@ -88,22 +89,21 @@ PV_total;
 ## Instalación
 ### Descargar Repositorio
 `
-git clone https://github.com/elizaldeingrith06/FUNDAMENTOS
+git clone https://github.com/PervisZurita/Actividad-E2.git
 `
 ### Ingresar al repositorio
 `
-cd FUNDAMENTOS
 cd ACTIVIDAD-E2
 `
 ### Para observar codigo del programa
 `
-cat 'nombredearchivo'.cpp
+vim 'archivo'.cpp
 `
 ### Para compilar en terminal
 `
-g++ 'nombredearchivo'.cpp -o 'nombredearchivo'
+g++ 'archivo'.cpp -o 'archivo'
 `
 ### Para ejecutar
 `
-./'nombredearchivo'
+./'archivo'
 `
