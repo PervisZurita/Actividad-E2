@@ -21,6 +21,7 @@ PuntoVenta.cpp
 ## Descripcion de todos los programas 
 
 ### Compara: 
+#### descripcion del problema
 
 Este es un programa realizado para comparar 2 números, para demostrar si un número es mayor o igual al otro.
 #### Funcionalidad
