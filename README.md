@@ -22,11 +22,19 @@ PuntoVenta.cpp
 
 ### Compara: 
 
-Este es un programa realizado para comparar 2 números, para demostrar si un número es mayor o igual al otro. Este programa funciona de la siguiente manera:
+Este es un programa realizado para comparar 2 números, para demostrar si un número es mayor o igual al otro.
+#### Funcionalidad
+
+Este programa funciona de la siguiente manera:
+
 Debe ingresar los dos números que se quiere comparar.
+
 El programa realizará una comparación de los números ingresados.
+
 El programa designará cual es el mayor o si son iguales.
+
 Finalmente mostrará el resultado por pantalla si es mayor o igual.
+
 #### Salida:
 `
 "**pv_a** es mayor.";
