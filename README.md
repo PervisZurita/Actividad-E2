@@ -83,10 +83,15 @@ PV_a1;
 `
 
 ### Cálculo de Edad:
+#### Descripcion del programa
 
 Este programa está diseñado para calcular la edad de una persona. Su funcionamiento es el siguiente:
+#### Funcionalidad del programa
+
 Ingresa los datos pedido por el programa.
+
 El programa se encargá de hacer los calculos respectivos.
+
 El programa mostrará el resultado del calculo realizado.
 #### Salida:
 `
@@ -94,12 +99,18 @@ PV_ed;
 `
 
 ### Punto de Venta:
-
+#### Descripcion del programa
 El programa está diseñado para calcular el iva y el descuento de una compra.
+#### Funcionalidad del programa
+
 Ingrese cuantos productos comprará.
+
 Ingrese el valor de cada producto.
+
 Realizará el respectivo calculo para sacar el el valor de su compra con el iva incluido.
+
 Realizará otro calculo para hacerle un descuento del valor con iva.
+
 El programa por ultimo mostrará el resultado del valor correspondiente a su compra.
 #### Salida:
 `
