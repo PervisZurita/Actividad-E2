@@ -44,21 +44,33 @@ Finalmente mostrará el resultado por pantalla si es mayor o igual.
 
 ### Suma: 
 
-Este es un programa realizado para sumar 2 números, para saber cuanto es el resultado de la suma. Su funcionamiento es de la siguiente manera:
+Este es un programa realizado para sumar 2 números, para saber cuanto es el resultado de la suma. 
+#### Funcionalidad del programa
+
+Su funcionamiento es de la siguiente manera:
+
 Ingresa los 2 números para hacer la sumarespectiva.
+
 El programa realizara la suma de los numeros ingresados.
+
 Finalmente el programa mostrara el resultado de aquella suma.
+
 #### Salida:
 `
 PV_r=PV_a1+PV_b2;
 `
 
 ### CuentaMoneda: 
+#### Descripcion del programa
 
 Este progrma realizado para contabilizar las monedas ingresadas. Su funcionamiento es de la siguiente manera:
+#### Funcionalidad del programa
 Ingresa la cantidad de monedas por contar.
+
 Selecciona cuantas monedas son de 0.25 y cuantas son de 0.10.
+
 El programa hará la contabilidad de las monedas ingresadas.
+
 Por ultimo mostrará el resultado de todas las monedas ingresadas.
 #### Salida:
 `
