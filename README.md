@@ -60,7 +60,7 @@ Finalmente, el programa mostrara el resultado de aquella suma.
 PV_r=PV_a1+PV_b2;
 `
 
-### CuentaMoneda: 
+### Cuenta Moneda: 
 #### Descripción del programa
 
 Este programa realizado para contabilizar las monedas ingresadas. Su funcionamiento es de la siguiente manera:
