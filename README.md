@@ -122,7 +122,7 @@ PV_total;
 ## Instalación
 ### Descargar Repositorio
 `
-git clone https://github.com/PervisZurita/Actividad-E2.git
+git clone https://github.com/PervisZurita/Actividad-E2
 `
 ### Ingresar al repositorio
 `
